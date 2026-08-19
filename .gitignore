@@ -1,0 +1,14 @@
+# Separate WordPress install, not part of the main site
+blogs/
+wp-content/
+
+# Backup archives, not source
+manualtherapycourse.zip
+well-known.zip
+
+# Leftover files from a PHP auto-upgrader tool
+.htaccess.no_htaccess.phpupgrader
+.htaccess.phpupgrader.*
+
+# Secrets
+php/mail-config.php
