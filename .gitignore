@@ -9,6 +9,3 @@ well-known.zip
 # Leftover files from a PHP auto-upgrader tool
 .htaccess.no_htaccess.phpupgrader
 .htaccess.phpupgrader.*
-
-# Secrets
-php/mail-config.php
