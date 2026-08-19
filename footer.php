@@ -6,7 +6,7 @@
                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" style="filter: invert(1);"></button>
              </div>
              <div class="modal-body m-3">
-                 <form action="php/course-registration.php" method="POST"
+                 <form action="https://rightturn.asia/dont-delete/manualTherapyCourses/course-registration-form.php" method="POST"
                      class="d-flex flex-column h-100 justify-content-center w-100  mb-3 form"
                      novalidate>
                      <!--<input type="text" name="action" value="appointment" hidden>-->
@@ -50,8 +50,8 @@
                      </div>
 
                      <div class="d-flex justify-content-center ">
-                         <button type="submit"
-                             class="btn button font-1 ls-2 fw-semibold fs-7 py-3 px-4 mt-2">Make Registration</button>
+                         <a href="#"
+                             class="btn button font-1 ls-2 fw-semibold fs-7 py-3 px-4 mt-2">Make Registration</a>
                      </div>
                  </form>
              </div>
